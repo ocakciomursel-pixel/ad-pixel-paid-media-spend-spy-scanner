@@ -1,0 +1,26 @@
+{
+  "name": "ad-pixel-paid-media-spend-spy-scanner",
+  "version": "2.0.0",
+  "description": "Scan company domains in bulk to detect active paid advertising pixels: Meta/Facebook Pixel, Google Ads, Google Tag Manager, LinkedIn Insight Tag, TikTok Pixel, and Hotjar.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "ad-pixel-paid-media-spend-spy-scanner": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ad-spy",
+    "facebook-pixel",
+    "google-ads",
+    "tiktok-pixel",
+    "agency-leads",
+    "media-buying",
+    "b2b-prospecting",
+    "lead-generation",
+    "tech-stack-detector",
+    "marketing-agency"
+  ],
+  "license": "MIT"
+}
